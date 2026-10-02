@@ -5,4 +5,4 @@
 - 🏆 Competitive programmer: Codeforces Expert, TCPC 2025 champion team coach
 - 🌱 Currently exploring agent platforms and multimodal AI
 - 🔍 Looking for a 6-month AI internship from February or March 2027
-- 📫 How to reach me: [LinkedIn]([https://www.linkedin.com/in/ameni-ben-youssef](https://www.linkedin.com/in/ameni-ben-youssef-a83761253/)) · amenibenyoussefpro@gmail.com
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/ameni-ben-youssef-a83761253/) · amenibenyoussefpro@gmail.com
